@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Arek12c8
 - 👀 I’m interested in IT, automotive and aviation.
 - 🎓 I graduated from aviation engineering.
-- 🌱 I’m currently learning Java and working in the automotive industry.
+- 🎓 I know the basics of Java.
+- 🌱 I’m currently learning Dart & Flutter and working in the automotive industry.
 
 
 <!---
